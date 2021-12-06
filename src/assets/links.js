@@ -1,7 +1,7 @@
 const links = [
   {
-    name: "CodeRatri",
-    link: "https://gdsc.community.dev/events/details/developer-student-clubs-rajasthan-technical-university-kota-presents-coderatri/",
+    name: "Whatsapp",
+    link: "https://chat.whatsapp.com/ElGaWTaBWpwFaI3GQb1NTh",
     icon: "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_150,q_auto:good,w_150/v1/gcs/platform-data-dsc/events/IMG-20211020-WA0069_NzqhkKj.jpg",
   },
   {

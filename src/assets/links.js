@@ -1,7 +1,7 @@
 const links = [
   {
     name: "Whatsapp",
-    link: "https://chat.whatsapp.com/KVoMUgbZspd19xP45VRmyH",
+    link: "https://chat.whatsapp.com/ElGaWTaBWpwFaI3GQb1NTh",
     icon: "whatsapp.png",
   },
   {
